@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimaryDark">#ce8750</color>
+
+    <color name="colorPrimary">#ce8750</color>36180c
+    <color name="colorAccent">#a4a102</color>
+
+    <color name="colorText">#36180c</color>
+    <color name="colorBackGraund">#e37de3</color>
+
+    <color name="colorCofe1">#fef7da</color>
+    <color name="colorCofe2">#6c3a13</color>
+    <color name="colorCofe3">#36180c</color>
+
+</resources>

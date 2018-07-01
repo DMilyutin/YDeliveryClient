@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Dostavka_Client</string>
+    <string name="mail">mail</string>
+    <string name="map">mapl</string>
+    <string name="dial">dial</string>
+    <string name="title_activity_add_order">AddOrderActivity</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+    <string name="tvLoginActivityLogin">Номер телефона</string>
+    <string name="tvLoginActivityPass">Пароль</string>
+    <string name="btLoginActivityPass">ВОЙТИ</string>
+    <string name="error_login">Ошибка при попытке входа. Проверьте вводимые данные и попробуйте снова</string>
+</resources>

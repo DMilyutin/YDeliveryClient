@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:background="@color/colorCofe1"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <EditText
+        android:textColor="@color/colorText"
+        android:inputType="textCapWords"
+
+        android:textSize="21sp"
+        android:id="@+id/etNameForDialog"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="Имя"
+        />
+
+    <EditText
+        android:textColor="@color/colorText"
+        android:inputType="number"
+
+        android:textSize="21sp"
+        android:id="@+id/etPhoneForDialog"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="Контактный номер"
+        android:ems="10"
+        app:layout_constraintStart_toStartOf="parent"
+         />
+
+    <EditText
+        android:inputType="textCapWords"
+        android:textColor="@color/colorText"
+        android:textSize="21sp"
+        android:id="@+id/etAddressForDialog"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="Адрес доставки"
+        app:layout_constraintStart_toStartOf="parent"
+         />
+</LinearLayout>
